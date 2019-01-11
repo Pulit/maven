@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>org.mybatis.caches</groupId>
+  <artifactId>mybatis-redis</artifactId>
+  <versioning>
+    <versions>
+      <version>1.0.0-beta3.1-SNAPSHOT</version>
+    </versions>
+    <lastUpdated>20190111034322</lastUpdated>
+  </versioning>
+</metadata>
